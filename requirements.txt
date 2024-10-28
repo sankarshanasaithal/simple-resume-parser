@@ -1,0 +1,8 @@
+pdfplumber
+python-docx
+pillow
+pytesseract
+langchain-core
+langchain-groq
+pandas
+pymupdf
